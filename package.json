@@ -1,0 +1,28 @@
+{
+  "name": "activity_sia",
+  "version": "1.0.0",
+  "description": "Activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/kurtalvarado05-coder/agent-kurt-alvarado#readme",
+  "bugs": {
+    "url": "https://github.com/kurtalvarado05-coder/agent-kurt-alvarado/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtalvarado05-coder/agent-kurt-alvarado.git"
+  },
+  "license": "ISC",
+  "author": "Kurt Alvarado",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
